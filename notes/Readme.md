@@ -1,6 +1,7 @@
 # 📊 Power BI Learning Notes
 
 Welcome to my Power BI learning portfolio!  
+
 This repository documents my progress through Microsoft Learn modules as I transition back into IT, focusing on **data analytics and ERP systems**. Each module note captures key concepts, workflows, and my personal reflections.
 
 ---
