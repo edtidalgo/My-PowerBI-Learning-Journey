@@ -1,13 +1,13 @@
 [Back to Notes ReadMe](Readme.md)
 
-# Module 1: Get Started with Power BI
+# Module 1 : Get Started with Power BI
 
 *Learning Path: Get started with Microsoft data analytics*  
 *Focus: Introduction to Power BI, its components, flow, and building blocks*
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 By the end of this module, I can:
 - Explain how Power BI services and applications work together
 - Explore how Power BI can improve business efficiency
@@ -15,7 +15,7 @@ By the end of this module, I can:
 
 ---
 
-## 📌 Introduction
+## Introduction
 Power BI is a complete reporting solution that covers:
 - **Data preparation**
 - **Data visualization**
@@ -26,7 +26,7 @@ Power BI is essential for data analysts, but valuable for all professionals who 
 
 ---
 
-## 🖥️ Components of Power BI
+## Components of Power BI
 - **Power BI Desktop** → Development tool for creating reports and semantic models  
 - **Power BI Service** → Online platform for publishing, managing, and distributing reports  
 - **Power BI Mobile** → Mobile app for consuming reports in optimized layouts  
@@ -35,7 +35,7 @@ Power BI is essential for data analysts, but valuable for all professionals who 
 
 ---
 
-## 🔄 Flow of Power BI
+## Flow of Power BI
 1. Connect to data (Desktop)
 2. Transform data with Power Query
 3. Model relationships & calculations
@@ -45,7 +45,7 @@ Power BI is essential for data analysts, but valuable for all professionals who 
 
 ---
 
-## 🧩 Building Blocks
+## Building Blocks
 - **Semantic Models** → Data sources, transformations, relationships, calculations  
 - **Visualizations** → Charts, tables, KPIs, interactive visuals  
 
@@ -54,14 +54,14 @@ Dashboards = pinned visuals from reports (high‑level, single page).
 
 ---
 
-## 📊 Dashboards
+## Dashboards
 - Built in Power BI Service after publishing reports
 - Consist of **tiles** pinned from visuals
 - Provide high‑level overview; tiles link back to detailed reports
 
 ---
 
-## 🗂️ Power BI Service Features
+## Power BI Service Features
 - **Workspaces** → Organize reports and dashboards; share with teams  
 - **Apps** → Bundle reports/dashboards for simplified distribution  
 - **Template Apps** → Prebuilt solutions (e.g., GitHub, Retail Analysis) that connect to your data  
@@ -69,14 +69,14 @@ Dashboards = pinned visuals from reports (high‑level, single page).
 
 ---
 
-## ✅ Knowledge Check (self‑test)
+## Knowledge Check (self‑test)
 - What’s the common flow of activity in Power BI?  
 - What are the building blocks of Power BI?  
 - What is a collection of reports and dashboards called?
 
 ---
 
-## 💡 My Reflections
+## My Reflections
 - The **Desktop → Service → Mobile flow** mirrors how I used to manage construction dashboards: build centrally, distribute widely.  
 - The concept of **semantic models** feels very similar to **SQL schema design** — my database background gives me an edge here.  
 - I like how **dashboards** are positioned as “high‑level summaries,” just like project dashboards I used to present to stakeholders.  
