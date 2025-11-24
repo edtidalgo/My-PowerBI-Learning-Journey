@@ -1,4 +1,6 @@
-# 📊 [Module 1 : Get Started Building with Power BI](
+# 📊 Module 1 : Get Started Building with Power BI
+
+[Learning Module](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/) 
 
 **Duration:** 21 min  
 **Type:** Module  
