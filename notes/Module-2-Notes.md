@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 By the end of this module, I can:
 - Identify and connect to a data source
 - Get data from relational databases (SQL Server)
@@ -20,7 +20,7 @@ By the end of this module, I can:
 
 ---
 
-## 📌 Introduction
+## Introduction
 Scenario: Tailwind Traders needs reports built from multiple sources:
 - **SQL Server** → Sales transactions
 - **Excel files** → HR employee data
@@ -31,7 +31,7 @@ Power BI + Power Query = unify, clean, and model this data before publishing rep
 
 ---
 
-## 📂 Get Data from Files
+## Get Data from Files
 - **Flat files**: CSV, TXT, fixed width → single table, no hierarchy
 - **Excel workbooks**: Common for HR and departmental data
 
@@ -41,11 +41,11 @@ Power BI + Power Query = unify, clean, and model this data before publishing rep
 - OneDrive Personal → similar, but requires sign‑in
 - SharePoint Team Sites → connect via URL or root folder
 
-👉 Best practice: Use cloud storage (OneDrive/SharePoint) for automatic synchronization.
+Best practice: Use cloud storage (OneDrive/SharePoint) for automatic synchronization.
 
 ---
 
-## 🗄️ Get Data from Relational Databases
+## Get Data from Relational Databases
 - Use **Get Data → SQL Server** in Power BI Desktop
 - Enter **server name** + **database name**
 - Choose **Import (default)** or **DirectQuery**
@@ -60,7 +60,7 @@ Power BI + Power Query = unify, clean, and model this data before publishing rep
 
 ---
 
-## ✍️ Import Data via SQL Query
+## Import Data via SQL Query
 Instead of loading entire tables:
 - Write SQL queries to select only needed columns/rows
 - Example:
