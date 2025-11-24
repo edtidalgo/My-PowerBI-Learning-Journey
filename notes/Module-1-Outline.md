@@ -1,6 +1,6 @@
 [Back to Notes ReadMe](Readme.md)
 
-# 📊 Module 1 : Get Started Building with Power BI
+# Module 1 : Get Started Building with Power BI
 
 [Microsoft Learning Module link](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/) 
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 👥 Audience
+## Audience
 - Beginner  
 - Data Analyst  
 - Business Analyst  
@@ -19,14 +19,14 @@
 
 ---
 
-## 📘 Module Overview
+## Module Overview
 Learn about **Power BI**, the building blocks and flow of Power BI, and how to create compelling, interactive reports.  
 
 This module also helps prepare you for **Exam PL-200: Microsoft Power Platform Functional Consultant**.
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 In this module, you'll learn:
 
 - How Power BI services and applications work together  
@@ -35,12 +35,12 @@ In this module, you'll learn:
 
 ---
 
-## 📝 Prerequisites
+## Prerequisites
 - None  
 
 ---
 
-## 📚 Learning Paths
+## Learning Paths
 This module is part of the following learning paths:
 
 - *Get started with Microsoft data analytics*  
@@ -48,7 +48,7 @@ This module is part of the following learning paths:
 
 ---
 
-## 📖 Module Outline
+## Module Outline
 1. Introduction  
 2. Use Power BI  
 3. Building blocks of Power BI  
