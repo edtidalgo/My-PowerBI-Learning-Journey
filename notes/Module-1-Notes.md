@@ -1,3 +1,5 @@
+[Back to Notes ReadMe](Readme.md)
+
 # Module 1: Get Started with Power BI
 
 *Learning Path: Get started with Microsoft data analytics*  
